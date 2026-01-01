@@ -121,7 +121,6 @@ Source code is not public at this stage.
 ## Status
 
 DoorOS is stable and usable.  
-The project will continue to evolve.
 
 A presentation video is **coming soon**.
 
