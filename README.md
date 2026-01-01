@@ -91,7 +91,7 @@ Experimentation without compromising security.
 DoorOS is distributed as a **single portable executable (.exe)**.
 
 ➡️ **Download from the Releases page:**  
-https://github.com/TON-USERNAME/DoorOS/releases
+https://github.com/Gabthecoder93/DoorOS/releases
 
 No installation required.
 
