@@ -120,11 +120,7 @@ Source code is not public at this stage.
 
 ## Status
 
-DoorOS is stable and usable.  
+DoorOS is stable and usable.
 
-A presentation video is **coming soon**.
-
----
-
-### DoorOS  
-Because every closed Window needs an open Door.
+A presentation video is now available on YouTube : 
+https://www.youtube.com/watch?v=d_uAFoFT6VM
